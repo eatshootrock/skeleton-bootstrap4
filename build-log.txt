@@ -1,0 +1,29 @@
+CHANGE REQUEST : 11/21/17
+-------------------------
+
+## CHANGE ALL
+- NEW NAV ITEMS (DONE) .5hrs
+- COLLAPSIBLE MENU (DONE) 4hrs
+- 1024px, 1280px, 1366px, 1440px, 1600px 4hrs
+
+## ADD ELEMENTS ON CMS-INFO.HTML
+- Proximity section (DONE) .25hrs
+- pzagination section (DONE) .2hrs
+- copy service button (DONE) .2hrs
+- new general tab (DONE) .2hrs
+- touchpoint add form (CURRENT) .25hr
+
+## NEW NAV ITEMS MENU INTEGRATION (8 items)
+- Touchpoints (cms-info.html) 1hr
+- Beacons (beacon-registration.html) 1hr
+- Dashboard (reports.html) 1hr
+- Customers (customer.html) 1hr
+- Locations (locations.html) 1hr
+- Users (customer-users.html) 1hr
+- Administrators (portal-users.html) 1hr
+- Settings (not yet available) 
+
+
+## Touchpoints
+- 4 Modals 1.5hr
+

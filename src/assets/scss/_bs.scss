@@ -1,0 +1,14 @@
+// Import External SCSS
+@import "variables";
+
+/* 
+This is a customized Version of Bootstrap
+Author: #{$theauthor}
+Project: #{$project}
+Version: #{$version}
+*/
+
+
+/* Import all Bootstrap */
+
+@import "node_modules/bootstrap/scss/bootstrap";

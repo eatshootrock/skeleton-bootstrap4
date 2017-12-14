@@ -1,0 +1,24 @@
+/* ----------------------
+Bootstrap CSS
+---------------------- */
+
+@import "variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+/* ----------------------
+Font Awesome CSS
+---------------------- */
+
+$fa-font-path: "../assets/fonts";
+@import "node_modules/font-awesome/scss/font-awesome";
+
+/* ----------------------
+Custom Styles
+---------------------- */
+
+@import "base";
+@import "fonts";
+@import "navigation";
+@import "components";
+@import "forms";
+@import "mediaqueries";

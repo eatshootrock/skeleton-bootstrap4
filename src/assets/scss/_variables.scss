@@ -1,0 +1,53 @@
+// SCSS Variables
+$panel-color: #fff;
+$panel-border: solid 1px #E1E1E6;
+$panel-color-dark: #404040;
+$panel-color-dark-highlight: #535353;
+$panel-border-dark: solid 1px #353535;
+$theauthor: "Dewise";
+$project: "Touchpoint Manager";
+$version: "1.0.0";
+//
+// Boostrap Customization
+$body-bg: #EFF3F6;
+$body-color: #777;
+$font-family-sans-serif: 'Istok Web',
+Roboto,
+"Helvetica Neue",
+Arial,
+sans-serif;
+$caret-width: .2em;
+//
+// Bootstrap Defaults
+// WHITE TO BLACK
+$white: #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #bfc0c2;
+$gray-600: #868e96;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black: #000;
+//
+$blue: #00aabc;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #e83e8c;
+$red: #dc3545;
+$orange: #e37919;
+$yellow: #fbdb00;
+$green: #50c14e;
+$teal: #20c997;
+$cyan: #17a2b8;
+//
+$primary: $blue;
+$secondary: $gray-600;
+$success: $green;
+$info: $cyan;
+$warning: $yellow;
+$danger: $red;
+$light: $gray-100;
+$dark: $gray-800;
